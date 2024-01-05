@@ -1,16 +1,22 @@
-# trivia_app
+# Trivia Application - CS 2203 Mobile Development Course
 
-A new Flutter project.
+## Project Overview
+This application is the Midterm Project for the CS 2203 Mobile Development Course. It's a trivia game that provides users with a fun and interactive way to test their knowledge on various topics.
 
-## Getting Started
+## Technologies Used
+- **Flutter**: A UI toolkit for crafting natively compiled applications for mobile from a single codebase.
+- **Dart**: The programming language used for developing the application.
+- **Trivia API**: This API is used for retrieving quiz questions and answers.
 
-This project is a starting point for a Flutter application.
+## How to Use
+To get started with the Trivia Application:
 
-A few resources to get you started if this is your first Flutter project:
+1. **Clone the Repository**:
+Replace `[repository-url]` with the URL of this repository.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. **Install Dependencies**:
+Navigate to the project directory and run:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+Happy Quizzing!
